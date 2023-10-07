@@ -3,7 +3,7 @@ name = "{{project-name}}"
 version = "0.1.0"
 edition = "2023"
 authors = [
-	"palutz "email@makeyourownbusiness.com",
+	"palutz, email@makeyourownbusiness.com",
 ]
 include = [
 	"src/**/*",
