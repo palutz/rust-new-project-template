@@ -1,5 +1,10 @@
-# rust-new-project-template
+# {{rust-new-project-template}}
 A good starting point for a new Rust project
+
+![Rust Version][rustc-image]
+[![crates.io][crate-image]][crate-link]
+[![Documentation][docs-image]][docs-link]
+[![Dependency Status][deps-image]][deps-link]
 
 ## Diagrams
 
