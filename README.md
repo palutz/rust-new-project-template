@@ -24,3 +24,14 @@ flowchart LR
 ## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+
+
+[//]: # (badges)
+
+[rustc-image]: https://img.shields.io/badge/rustc-1.60+-blue.svg
+[crate-image]: https://img.shields.io/crates/v/{{project-name}}.svg
+[crate-link]: https://crates.io/crates/{{project-name}}
+[docs-image]: https://docs.rs/{{project-name}}/badge.svg
+[docs-link]: https://docs.rs/{{project-name}}
+[deps-image]: https://deps.rs/repo/github/palutz/{{project-name}}/status.svg
+[deps-link]: https://deps.rs/repo/github/palutz/{{project-name}}
